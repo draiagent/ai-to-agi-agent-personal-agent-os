@@ -1,0 +1,58 @@
+[
+  {
+    "file": "assets/cards/01-overview.png",
+    "page": 1,
+    "title": "封面與三層架構總覽",
+    "sha256": "fa9862485ec3f7e7e1f0c26db54bb2218dbb3198d9cb536c14741dc18eb1aa81",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/02-capabilities.png",
+    "page": 2,
+    "title": "能力分工",
+    "sha256": "e701c07bcbd88f2fd163aa9a3d25972a7f647e1a4902e392aa4cb087728cd312",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/03-execution-loop.png",
+    "page": 3,
+    "title": "執行閉環",
+    "sha256": "5230d6c3d04589dc96d7ad44ae85b28653c0e2fa42d3088485446a775f0861cc",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/04-evidence-memory.png",
+    "page": 4,
+    "title": "證據與記憶",
+    "sha256": "7c422702420a6721ee51b4f00499b889ab2968df4ed97925c0fafc723464d68f",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/05-governance.png",
+    "page": 5,
+    "title": "全程治理",
+    "sha256": "611391e016f4463248918bb791695efb9dae8cdcdd9a3151e2d91de2c7b3e841",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/06-task-economics.png",
+    "page": 6,
+    "title": "任務經濟",
+    "sha256": "3bbd12c27c14120175d0f081d3490dcd3cff7eca804bdc1fdd2f00f0ce47b2c0",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  },
+  {
+    "file": "assets/cards/07-summary.png",
+    "page": 7,
+    "title": "行動總結（修正版）",
+    "sha256": "b046aa203bbb076e745e05ab26a25a991bd39f45c3a6cfc0563197d720858a65",
+    "source": "本對話 AI 生成圖卡；使用者提供品牌與人物參考素材",
+    "rights": "保留所有權利；不因收錄而授予再利用權利"
+  }
+]
